@@ -2,6 +2,7 @@
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  background: #387EF5;
 }
 @media (min-width: 48rem) {
   html {
@@ -197,11 +198,12 @@ a.sidebar-nav-item:focus {
 /* Blue */
 .theme-base-0d .sidebar {
   /*background-color: #6a9fb5;*/
-    background: #387EF5; /*url(../bg.png) no-repeat center center;*/
+    background: #fff; /*url(../bg.png) no-repeat center center;*/
+    color: white;
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
-  color: #4E8EF7;
+  color: #fff;
 }
 
 /* Magenta */
