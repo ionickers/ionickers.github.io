@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ionickers.github.io
+title: Ionickers
+tagline: We Loved Ionic!
+description: Um blog sobre Ionic, Cordova, e tudo mais!
+paginate: 3
