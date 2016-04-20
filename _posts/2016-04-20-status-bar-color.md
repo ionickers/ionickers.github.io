@@ -8,7 +8,7 @@ layout: post
 </center>
 
 <br><br>
->Um tutorial simples, de como mudar a cor do statusbar
+> Um tutorial simples, de como mudar a cor do statusbar
 
 
 A partir das versões 5X do android, agora é possivel alterar a cor do Statusbar, como acontecia no IOS.
@@ -26,6 +26,7 @@ Existe dois modos de alterar o Statusbar, uma bem simples, declarando a preferen
 
 ```<preference name="StatusBarBackgroundColor" value="#ff0000" />
 ```
+
 No exemplo estou utilizando a cor RED em hexadeciamal, ficou assim: #ff0000.
 
 A própria documentação, mostra que é possível utilizar palavras de cores reservadas, como RED, BLUE, YELLOW e etc, mas em alguns testes que eu realizei, em alguns dispositivos não funcionou, então fica a dica! USE SEMPRE HEXADECIMAL!
