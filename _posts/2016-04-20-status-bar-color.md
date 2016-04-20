@@ -8,6 +8,7 @@ layout: post
 </center>
 
 <br><br>
+
 > Um tutorial simples, de como mudar a cor do statusbar
 
 
