@@ -22,5 +22,5 @@ Apesar de se basear no Chromium para Android, o Crosswalk possui alguns diferenc
 
 <center>
    Esse Artigo esta sendo escrito <br>
-    <img src="https://blodrix.github.io/public/coffee.gif"
+    <img src="https://blodrix.github.io/public/coffee.gif">
 </center>

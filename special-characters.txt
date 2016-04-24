@@ -1,0 +1,47 @@
+& # 9 7 8 8= ☼ Sol
+& # 9 7 9 0= ☾ Lua
+& # 9 7 9 1= ☿ Mercúrio
+& # 9 7 9 2= ♀ Vênus
+& # 9 7 9 3= ♁
+& # 9 7 9 4= ♂ Marte
+& # 9 7 9 5= ♃ Júpiter
+& # 9 7 9 6= ♄ Saturno
+& # 9 7 9 7= ♅ Urano
+& # 9 7 9 8= ♆ Netuno
+& # 9 7 9 9= ♇ Plutão
+__________________________
+
+Flores:
+
+& # 1 0 0 4 5 = ✽
+& # 1 0 0 4 6 = ✾
+& # 1 0 0 4 7 = ✿
+& # 1 0 0 4 8 = ❀
+& # 1 0 0 4 9 = ❁
+& # 1 0 0 5 1 = ❃
+& # 1 0 0 5 2 = ❄
+& # 1 0 0 5 3 = ❅
+& # 1 0 0 5 4 = ❆
+& # 1 0 0 5 8 = ❊
+
+__________________________
+
+Variados:
+
+& # 9 7 4 3 = ☏ Telefone branco
+& # 9 7 7 3 = ☭ Símbolo do Comunismo
+& # 1 0 0 8 5= ❥ Coração inclinado
+& # 8 9 8 7 = ⌛ Cálice
+& # 8 9 8 6 = ⌚ Relógio
+& # 9 9 9 3 = ✉ Carta
+& # 9 9 9 2 = ✈ Avião
+& # 9 9 8 8 = ✄ tesoura
+& # 9 7 6 2 = ☢ Radioatividade
+& # 9 9 9 9 = ✏ Lápis
+& # 9 7 3 0 = ☂ Guarda-chuva
+& # 9 7 6 3 = ☣ Ameaça bacteriológica
+& # 9 7 6 5 = ☥
+& # 9 7 6 0 = ☠ Caveira- símbolo pirata
+& # 9 9 9 8 = ✎ Lápis inclinado
+& # 9 7 8 5 = ☹ Carinha triste
+& # 9 6 4 1 = ▩ Tabuleiro de xadrez
