@@ -1,0 +1,26 @@
+---
+published: true
+title: Aquele sobre Crosswalk
+layout: post
+---
+<center>
+<img src="https://crosswalk-project.org/assets/identity/crosswalkproject-logo-horizontal-dark.png" width="85%" title="Aquele sobre Crosswalk" alt="Crosswalk Project">
+</center>
+
+<br><br>
+
+Sobre o Crosswalk
+===
+
+O Crosswalk é um wrapper do projeto Chromium para Android, contando com as mesmas características do navegador, criando uma webview com mais compatibilidade com as aplicacoes, os dispositivos Android com versoes 4X e inferior sao equipados com webview diferente do mantido pelo Google, muitas veses nao resebendo atualizacoes das fabricantes, e com pouco compatibilidade com os recursos atuais, diferente da versao 5X e superior, que que o webview é mantido pelo google, recebendo atualizacoes diretamente da Google Play.
+
+Apesar de se basear no Chromium para Android, o Crosswalk possui alguns diferenciais próprios:
+
+* Não é mostrada a barra de endereços e abas, pois o projeto funciona em tela cheia, como se fosse um aplicativo nativo. Então, não é preciso usar a ação Request fullscreen do objeto Browser.
+* No Chrome para Android, uma música só pode ser iniciada com um evento de toque. Já no Crosswalk a música pode ser tocada a qualquer momento.
+* No Crosswalk é possível usar as condições On back button, On menu button e On search button do objeto Browser (funcionam apenas no projeto exportado). No navegador estas condições não funcionam.
+
+<center>
+   Esse Artigo esta sendo escrito <br>
+    <img src="https://blodrix.github.io/public/coffee.gif"
+</center>
