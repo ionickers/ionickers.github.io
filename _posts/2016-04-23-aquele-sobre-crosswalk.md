@@ -12,7 +12,7 @@ layout: post
 Mas que p☠rr@ é o Crosswalk?
 ===
 
-O Crosswalk é um wrapper do projeto Chromium para Android, contando com as mesmas características do navegador, criando uma webview com mais compatibilidade com as aplicacoes, os dispositivos Android com versoes 4X e inferior sao equipados com webview diferente do mantido pelo Google, muitas veses nao recebendo atualizacoes das fabricantes, e com pouco compatibilidade com os recursos atuais, diferente da versao 5X e superior, que tem o webview é mantido pelo Google, como um aplicativo separado recebendo atualizacoes diretamente da Google Play.
+O Crosswalk é um wrapper do projeto Chromium para Android, contando com as mesmas características do navegador, criando uma webview com mais compatibilidade com as aplicações, os dispositivos Android com versões 4X e inferior sao equipados com webview diferente do mantido pelo Google, muitas vezes não recebendo atualizações das fabricantes, e com pouco compatibilidade com os recursos atuais, diferente da versão 5X e superior, que tem o webview como um app, mantido pelo Google, recebendo atualizações diretamente da Google Play.
 
 Apesar de se basear no Chromium para Android, o Crosswalk possui alguns diferenciais próprios:
 
@@ -24,15 +24,28 @@ Para instalar o Crosswalk na sua aplicacao é bem simples, apenas instale o plug
 
 ```$ cordova plugin add cordova-plugin-crosswalk-webview
 ```
+
 ou
 
 ```$ ionic browser add crosswalk
 ```
-Voce tambem pode adcionar o plugin de forma mais facil ainda, se voce estiver usando o intelXDK, basta dar um check no input.
+
+Você também pode adicionar o plugin de forma mais fácil ainda, se você estiver usando o intelXDK, basta dar um check no input.
 
 <img src="https://ionickers.github.io/public/images/crosswalk.png">
+
+> O Crosswalk garante compatibilidade para Android antigos, MASSS...
+
+<center>
+<img src="https://49.media.tumblr.com/tumblr_maqoftf6T31r2a5r0o1_500.gif">
+</center>
+
+Ao adicionar o Crosswalk em sua aplicação, sera adicionado um webview, o que ocasionara em mais ou menos 20 MB a mais em sua aplicação, então não esqueça de na hora de subir para os marketplace, faça a build de seus apps com o Crosswalk e sem, para os dispositivos que não necessitam do Crosswalk, deixando o app mais leve.
+
 
 
 [Project Crosswalk](https://crosswalk-project.org)
 
 [IntelXDK](https://software.intel.com/pt-br/intel-xdk)
+
+[Multiple APK Support](http://developer.android.com/google/play/publishing/multiple-apks.html)
