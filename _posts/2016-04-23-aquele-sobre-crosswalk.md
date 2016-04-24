@@ -9,10 +9,10 @@ layout: post
 
 <br><br>
 
-Sobre o Crosswalk
+Mas que p☠rr@ é o Crosswalk?
 ===
 
-O Crosswalk é um wrapper do projeto Chromium para Android, contando com as mesmas características do navegador, criando uma webview com mais compatibilidade com as aplicacoes, os dispositivos Android com versoes 4X e inferior sao equipados com webview diferente do mantido pelo Google, muitas veses nao resebendo atualizacoes das fabricantes, e com pouco compatibilidade com os recursos atuais, diferente da versao 5X e superior, que que o webview é mantido pelo google, recebendo atualizacoes diretamente da Google Play.
+O Crosswalk é um wrapper do projeto Chromium para Android, contando com as mesmas características do navegador, criando uma webview com mais compatibilidade com as aplicacoes, os dispositivos Android com versoes 4X e inferior sao equipados com webview diferente do mantido pelo Google, muitas veses nao recebendo atualizacoes das fabricantes, e com pouco compatibilidade com os recursos atuais, diferente da versao 5X e superior, que tem o webview é mantido pelo Google, como um aplicativo separado recebendo atualizacoes diretamente da Google Play.
 
 Apesar de se basear no Chromium para Android, o Crosswalk possui alguns diferenciais próprios:
 
