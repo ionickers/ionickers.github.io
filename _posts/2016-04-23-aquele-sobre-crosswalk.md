@@ -40,7 +40,7 @@ Você também pode adicionar o plugin de forma mais fácil ainda, se você estiv
 <img src="https://49.media.tumblr.com/tumblr_maqoftf6T31r2a5r0o1_500.gif">
 </center>
 
-Ao adicionar o Crosswalk em sua aplicação, sera adicionado um webview, o que ocasionara em mais ou menos 20 MB a mais em sua aplicação, então não esqueça de na hora de subir para os marketplace, faça a build de seus apps com o Crosswalk e sem, para os dispositivos que não necessitam do Crosswalk, deixando o app mais leve.
+Ao adicionar o Crosswalk em sua aplicação, sera adicionado um webview, o que ocasionará em mais ou menos 20 MB a mais em sua aplicação, então não esqueça de na hora de subir para os marketplace, faça a build de seus apps com o Crosswalk e sem, para os dispositivos que não necessitam do Crosswalk para deixar mais leve.
 
 
 
