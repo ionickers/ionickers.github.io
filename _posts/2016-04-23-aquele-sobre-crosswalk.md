@@ -20,7 +20,19 @@ Apesar de se basear no Chromium para Android, o Crosswalk possui alguns diferenc
 * No Chrome para Android, uma música só pode ser iniciada com um evento de toque. Já no Crosswalk a música pode ser tocada a qualquer momento.
 * No Crosswalk é possível usar as condições On back button, On menu button e On search button do objeto Browser (funcionam apenas no projeto exportado). No navegador estas condições não funcionam.
 
-<center>
-   Esse Artigo esta sendo escrito <br>
-    <img src="https://ionickers.github.io/public/coffee.gif">
-</center>
+Para instalar o Crosswalk na sua aplicacao é bem simples, apenas instale o plugin
+
+```$ cordova plugin add cordova-plugin-crosswalk-webview
+```
+ou
+
+```$ ionic browser add crosswalk
+```
+Voce tambem pode adcionar o plugin de forma mais facil ainda, se voce estiver usando o intelXDK, basta dar um check no input.
+
+<img src="https://ionickers.github.io/public/images/crosswalk.png">
+
+
+[Project Crosswalk](https://crosswalk-project.org)
+
+[IntelXDK](https://software.intel.com/pt-br/intel-xdk)
