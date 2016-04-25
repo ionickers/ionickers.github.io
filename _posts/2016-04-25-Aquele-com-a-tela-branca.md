@@ -1,10 +1,10 @@
 ---
 published: true
-title: Push Notificação com Intel XDK
+title: Tela Branca da Morte
 layout: post
 ---
 <center>
-<img src="../public/images/cordova.png" width="25%" title="Notificacao Push" alt="Notificacao Push">
+<img src="https://www.firebase.com/resources/images/blog/ionic-blank-template.png" width="25%" title="Tela branca erro Ionic" alt="Tela branca do ionic">
 </center>
 
 <br><br>
@@ -17,6 +17,6 @@ layout: post
 Links
 ===
 
-[Site do Git](http://git-scm.com/)
+[link](http://#.com/)
 
-[GitHub](https://github.com)
+[link](https://#.com)
