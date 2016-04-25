@@ -10,7 +10,7 @@ layout: post
 <br><br>
 
 <center>
-<img src="https://blodrix.github.io/public/resources/images/coffe.GIF" title="Esse Post esta sendo escrito..." alt="Esse Post esta sendo escrito..."><br>
+<img src="https://ionickers.github.io/public/coffe.gif" title="Esse Post esta sendo escrito..." alt="Esse Post esta sendo escrito..."><br>
 <b>Esse artigo esta sendo escrito...</b>
 </center>
 
