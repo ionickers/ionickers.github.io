@@ -1,6 +1,6 @@
 ---
 published: true
-title: Tela Branca da Morte
+title: A Tela Branca d̶a̶ ̶M̶o̶r̶t̶e̶ do Ionic
 layout: post
 ---
 <center>
