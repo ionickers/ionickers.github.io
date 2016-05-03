@@ -7,16 +7,18 @@ layout: post
 <img src="https://www.firebase.com/resources/images/blog/ionic-blank-template.png" width="25%" title="Tela branca erro Ionic" alt="Tela branca do ionic">
 </center>
 
-<br><br>
+A tela toda em branco no Ionic acontece, por causa do Content Security Policy(CSP), presente na nova versão do Cordova 5x que alterou algumas politicas de seguranças, basicamente ele controla solicitações de rede, imagens, src e etc, através do webview.
 
-<center>
-<img src="https://ionickers.github.io/public/coffee.gif" title="Esse Post esta sendo escrito..." alt="Esse Post esta sendo escrito..."><br>
-<b>Esse artigo esta sendo escrito...</b>
-</center>
+Como o Ionic utiliza AngularJS e por sua vez angular utiliza o modelo MVC, que utiliza o src para montar suas rotas, para contornar o problema é bem simples, é só colocar uma meta tag no seu index, entre as tags do head:
+
+```<meta http-equiv="Content-Security-Policy"content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">```
+
+Essa meta tag permite acesso total, existem outras, com menos acesso, você pode conferir no Cordova Whitelist, que tem toda a documentação bonitinha.
+
 
 Links
 ===
 
-[link](http://#.com/)
+[Cordova Whitelisting](https://github.com/apache/cordova-plugin-whitelist)
 
-[link](https://#.com)
+[Cordova Whitelist](http://docs.ionic.io/docs/cordova-whitelist)
