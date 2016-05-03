@@ -17,6 +17,13 @@ Essa meta tag permite acesso total, existem outras, com menos acesso, você pode
 
 Caso o problema da tela em branco continue, pode ser por causa da versão do android e então seria necessário add o[crowssalk](https://ionickers.github.io/2016/04/23/aquele-sobre-crosswalk.html).
 
+<center>
+Assine o Canal no Telegram!<br>
+<a href="https://telegram.me/ionickers">
+<img src="http://sempreupdate.org/wp-content/uploads/2016/03/telegram-icon-hdcast.png" width="35%">
+</a>
+</center>
+
 
 Links
 ===
