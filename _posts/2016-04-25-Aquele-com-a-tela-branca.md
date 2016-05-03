@@ -15,6 +15,8 @@ Como o Ionic utiliza AngularJS e por sua vez angular utiliza o modelo MVC, que u
 
 Essa meta tag permite acesso total, existem outras, com menos acesso, você pode conferir no Cordova Whitelist, que tem toda a documentação bonitinha.
 
+Caso o problema da tela em branco continue, pode ser por causa da versão do android e então seria necessário add o[crowssalk](https://ionickers.github.io/2016/04/23/aquele-sobre-crosswalk.html).
+
 
 Links
 ===
